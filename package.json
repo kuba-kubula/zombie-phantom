@@ -17,8 +17,7 @@
   },
   "main": "./lib/zombie.js",
   "dependencies": {
-    "node-phantom": ">=0",
-    "underscore": ">=0",
-    "async": ">=0"
+    "node-phantom-ws": ">=0",
+    "underscore": ">=0"
   }
 }
