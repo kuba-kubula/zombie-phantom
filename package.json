@@ -1,6 +1,6 @@
 {
   "name": "zombie-phantom",
-  "version": "0.0.6b",
+  "version": "0.0.6c",
   "description": "Provides a Zombie.js shim around the PhantomJS Headless Browser.",
   "author": {
     "name": "Travis Tidwell",
@@ -17,7 +17,6 @@
   },
   "main": "./lib/zombie.js",
   "dependencies": {
-    "node-phantom-ws": ">=0",
-    "underscore": ">=0"
+    "node-phantom-ws": ">=0"
   }
 }
